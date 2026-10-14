@@ -13,7 +13,7 @@
 
 
 ##  SaaS Founder | System & Network Administrator | DevOps | AI Automation Engineer  
-###  Founder of [YallaTix](https://yallatix.app)
+###  Founder of [YallaTix](https://yallatix.app) 💚
 ### [Abdallahhussein.com](https://abdallahhussein.com)
 ### Cairo, Egypt
 ---
