@@ -9,6 +9,8 @@
 [![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c6ede3f2a30a8504)
 [![Khamsat](https://img.shields.io/badge/-Khamsat-FFB400?style=flat&logoColor=white)](https://khamsat.com/user/abdallah526)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0M729W8NO)
+
 
 
 
